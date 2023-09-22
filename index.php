@@ -52,18 +52,43 @@
 		echo $car[0];
 		*/
 
+		/*
+				* VAR_DUMP
 		$city = 'Manila';
 		$zipCode = 4107;
 		$food = array('Carbonara', 'Lumpia','Liempo');
 
+		echo '<pre>';
 		var_dump($city);
+		echo '</pre>';
+
+		echo '<pre>';
 		var_dump($zipCode);
-		var_dump($food);
-
-
+		echo '</pre';
 		
+		echo '<pre>';
+		var_dump($food);
+		echo '</pre';
 
+		echo '<pre>';
+		var_dump($food);
+		echo '</pre';
+
+		function d($data){
+			echo '<pre>';
+			var_dump($data);
+			echo '</pre>';
+		}
+		$balance = 8114;
+		d($balance);
+
+		$message = 'Insufficient';
+		d($message);
+
+		*/
      ?>
+		
+		 
 
 		 <!--<h1> <?php echo $animal[3] ?> </h1> --> 
 
