@@ -14,7 +14,7 @@
 		
 		
 		/*
-				* VARIABLES
+				* ANCHOR VARIABLES
 		$title = 'Rich choco';
 
 		echo "<em>$animal[1]</em>";
@@ -23,7 +23,7 @@
 
 
 		/* 
-				* FUNCTIONS
+				* ANCHOR FUNCTIONS
 		function greet($name, $age){
 	 	echo "Hi my name is $name, and I am $age years old <br/>";
 		}
@@ -35,7 +35,7 @@
 		
 		
 		/*
-				*  CONSTANT
+				* ANCHOR  CONSTANT
 		const RGB = ['red', 'green', 'blue'];
 		$radius = 7.5;
 		define('WIDTH', '1140px');
@@ -46,14 +46,14 @@
 
 		
 		/*
-				*	ARRAY
+				*	ANCHOR ARRAY
 		$car = array('Toyota', 'Vios', 'Mitsubishi', 'Nissan');
 
 		echo $car[0];
 		*/
 
 		/*
-				* VAR_DUMP
+			  * ANCHOR VAR_DUMP
 		$city = 'Manila';
 		$zipCode = 4107;
 		$food = array('Carbonara', 'Lumpia','Liempo');
